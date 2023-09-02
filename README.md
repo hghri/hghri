@@ -1,6 +1,6 @@
 ![logo](https://github.com/hghri/hossein_Ghanbari/blob/main/Untitled%20design%20(1).png)
 <h1 align="center">Hi 👋, I'm Hossein Ghanbari</h1>
-<h3 align="center">A Data Science learner from Iran</h3>
+<h3 align="center">A Data Science learner from Home</h3>
 <img align="right" alt="coding" widtg="400" src="https://media.blueskyhq.io/notion/fire_data-0-life-of-a-data-scientist-at-blue-sky.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hghri&label=Profile%20views&color=0e75b6&style=flat" alt="hghri" /> </p>
 
